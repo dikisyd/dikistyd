@@ -1,0 +1,530 @@
+2022-01-07_19-55-37.383 RedDotHandler check contact permission
+2022-01-07_19-55-37.409 RedDotHandler has no contact permission
+2022-01-07_19-55-37.410 RedDotHandler switch to off
+2022-01-07_19-55-37.410 RedDotHandler Preference SET VALUE, key:kotlin.reflect.jvm.internal.KProperty1Impl$a@aa48d3c
+2022-01-07_19-55-37.411 NotifyUtil didReceiveAppEvent eventType:didReceiveFriendStatusUpdate and eventData:null
+2022-01-07_19-55-37.412 RedDotHandler notify rn didReceiveFriendStatusUpdate and notify native
+2022-01-07_19-55-44.008 RedDotHandler Preference GET VALUE,  key:kotlin.reflect.jvm.internal.KProperty1Impl$a@aa48d3c, value:false
+2022-01-07_19-55-44.167 RedDotHandler get push and raw data is:{
+  "action_cate": 4,
+  "app_type": [],
+  "ctime": 1641480783,
+  "id": 629358219702501967,
+  "noti_bi_data": [],
+  "noticode": 28,
+  "notification_time": 1641479400,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "userid": 146533879,
+  "whatsapp_placeholders": []
+}
+2022-01-07_19-55-44.181 RedDotHandler get push and raw data is:{
+  "action_cate": 1,
+  "action_id": 377849862354099346,
+  "app_type": [],
+  "ctime": 1641484827,
+  "id": 629358219702506011,
+  "noti_bi_data": [],
+  "noticode": 99,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "shopid": 0,
+  "target_shopid": 0,
+  "userid": 146533879,
+  "whatsapp_placeholders": []
+}
+2022-01-07_19-55-44.193 RedDotHandler get push and raw data is:{
+  "action_cate": 1,
+  "action_id": 377970883162382713,
+  "app_type": [],
+  "ctime": 1641513680,
+  "id": 629358219702534864,
+  "noti_bi_data": [],
+  "noticode": 99,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "shopid": 0,
+  "target_shopid": 0,
+  "userid": 146533879,
+  "whatsapp_placeholders": []
+}
+2022-01-07_19-55-44.273 RedDotHandler get push and raw data is:{
+  "action_cate": 1,
+  "action_id": 374709261264798995,
+  "app_type": [],
+  "ctime": 1641513716,
+  "groupid": 0,
+  "id": 629358219702534900,
+  "noti_bi_data": [],
+  "noticode": 36,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "whatsapp_placeholders": []
+}
+2022-01-07_19-55-44.423 RedDotHandler get push and raw data is:{
+  "action_cate": 4,
+  "app_type": [],
+  "ctime": 1641533058,
+  "id": 629358219702554242,
+  "noti_bi_data": [],
+  "noticode": 28,
+  "notification_time": 1641531530,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "userid": 146533879,
+  "whatsapp_placeholders": []
+}
+2022-01-07_19-55-44.431 RedDotHandler get push and raw data is:{
+  "action_cate": 4,
+  "app_type": [],
+  "ctime": 1641540237,
+  "id": 629358219702561421,
+  "noti_bi_data": [],
+  "noticode": 28,
+  "notification_time": 1641538800,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "userid": 146533879,
+  "whatsapp_placeholders": []
+}
+2022-01-07_19-55-44.439 RedDotHandler get push and raw data is:{
+  "action_cate": 4,
+  "app_type": [],
+  "ctime": 1641551002,
+  "id": 629358219702572186,
+  "noti_bi_data": [],
+  "noticode": 28,
+  "notification_time": 1641551000,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "userid": 146533879,
+  "whatsapp_placeholders": []
+}
+2022-01-07_19-55-44.451 RedDotHandler get push and raw data is:{
+  "action_cate": 32,
+  "action_id": 378148544567861511,
+  "app_type": [],
+  "ctime": 1641556038,
+  "id": 629358219702577222,
+  "noti_bi_data": [],
+  "noticode": 99,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "shopid": 0,
+  "target_shopid": 0,
+  "userid": 146533879,
+  "whatsapp_placeholders": []
+}
+2022-01-07_19-55-44.457 RedDotHandler get push and raw data is:{
+  "action_cate": 1,
+  "action_id": 378152052142270398,
+  "app_type": [],
+  "ctime": 1641556874,
+  "id": 629358219702578058,
+  "noti_bi_data": [],
+  "noticode": 99,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "shopid": 0,
+  "target_shopid": 0,
+  "userid": 146533879,
+  "whatsapp_placeholders": []
+}
+2022-01-07_19-55-44.460 RedDotHandler get push and raw data is:{
+  "action_cate": 4,
+  "app_type": [],
+  "ctime": 1641559982,
+  "id": 629358219702581166,
+  "noti_bi_data": [],
+  "noticode": 28,
+  "notification_time": 1641558600,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "userid": 146533879,
+  "whatsapp_placeholders": []
+}
+2022-01-07_19-58-38.843 RedDotHandler Preference GET VALUE,  key:kotlin.reflect.jvm.internal.KProperty1Impl$a@aa48d3c, value:false
+2022-01-07_20-01-22.546 RedDotHandler Preference GET VALUE,  key:kotlin.reflect.jvm.internal.KProperty1Impl$a@aa48d3c, value:false
+2022-01-07_20-04-06.549 RedDotHandler Preference GET VALUE,  key:kotlin.reflect.jvm.internal.KProperty1Impl$a@aa48d3c, value:false
+2022-01-07_20-04-34.429 RedDotHandler Preference GET VALUE,  key:kotlin.reflect.jvm.internal.KProperty1Impl$a@aa48d3c, value:false
+2022-01-07_20-07-18.349 RedDotHandler Preference GET VALUE,  key:kotlin.reflect.jvm.internal.KProperty1Impl$a@aa48d3c, value:false
+2022-01-07_20-10-02.749 RedDotHandler Preference GET VALUE,  key:kotlin.reflect.jvm.internal.KProperty1Impl$a@aa48d3c, value:false
+2022-01-07_20-17-02.064 RedDotHandler Preference GET VALUE,  key:kotlin.reflect.jvm.internal.KProperty1Impl$a@aa48d3c, value:false
+2022-01-07_20-19-46.791 RedDotHandler Preference GET VALUE,  key:kotlin.reflect.jvm.internal.KProperty1Impl$a@aa48d3c, value:false
+2022-01-07_20-22-30.719 RedDotHandler Preference GET VALUE,  key:kotlin.reflect.jvm.internal.KProperty1Impl$a@aa48d3c, value:false
+2022-01-07_20-25-14.927 RedDotHandler Preference GET VALUE,  key:kotlin.reflect.jvm.internal.KProperty1Impl$a@aa48d3c, value:false
+2022-01-07_20-27-16.041 RedDotHandler get push and raw data is:{
+  "action_cate": 4,
+  "app_type": [
+    1
+  ],
+  "ctime": 1641562146,
+  "id": 0,
+  "msgid": 2125576137539486065,
+  "noti_bi_data": [],
+  "noticode": 33,
+  "notification_time": 1641562146,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "target_userid": 146533879,
+  "trace_context": {
+    "app_type": 1,
+    "ctime": 1641562146444,
+    "parent_span_id": 1027,
+    "span_id": 1004,
+    "trace_id": "c7c408mtvnmc74ccg86g"
+  },
+  "userid": 16186878,
+  "whatsapp_placeholders": []
+}
+2022-01-07_20-29-28.686 RedDotHandler get push and raw data is:{
+  "action_cate": 4,
+  "app_type": [
+    1
+  ],
+  "ctime": 1641562279,
+  "id": 0,
+  "msgid": 2123745090319270257,
+  "noti_bi_data": [],
+  "noticode": 33,
+  "notification_time": 1641562279,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "target_userid": 146533879,
+  "trace_context": {
+    "app_type": 1,
+    "ctime": 1641562279087,
+    "parent_span_id": 1027,
+    "span_id": 1004,
+    "trace_id": "c7c419vfqc0s745mdo60"
+  },
+  "userid": 461217215,
+  "whatsapp_placeholders": []
+}
+2022-01-07_20-29-34.852 RedDotHandler get push and raw data is:{
+  "action_cate": 4,
+  "app_type": [
+    1
+  ],
+  "ctime": 1641562285,
+  "id": 0,
+  "msgid": 2123745090319270257,
+  "noti_bi_data": [],
+  "noticode": 33,
+  "notification_time": 1641562285,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "target_userid": 146533879,
+  "trace_context": {
+    "app_type": 1,
+    "ctime": 1641562285266,
+    "parent_span_id": 1027,
+    "span_id": 1004,
+    "trace_id": "c7c41b9r68rs7495s27g"
+  },
+  "userid": 461217215,
+  "whatsapp_placeholders": []
+}
+2022-01-07_20-29-42.900 RedDotHandler get push and raw data is:{
+  "action_cate": 4,
+  "app_type": [
+    1
+  ],
+  "ctime": 1641562293,
+  "id": 0,
+  "msgid": 2123693161012625784,
+  "noti_bi_data": [],
+  "noticode": 33,
+  "notification_time": 1641562293,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "target_userid": 146533879,
+  "trace_context": {
+    "app_type": 1,
+    "ctime": 1641562293307,
+    "parent_span_id": 1027,
+    "span_id": 1004,
+    "trace_id": "c7c41dfflm1s74d9kq6g"
+  },
+  "userid": 145327675,
+  "whatsapp_placeholders": []
+}
+2022-01-07_20-29-44.117 RedDotHandler get push and raw data is:{
+  "action_cate": 4,
+  "app_type": [
+    1
+  ],
+  "ctime": 1641562294,
+  "id": 0,
+  "msgid": 2123693161012625784,
+  "noti_bi_data": [],
+  "noticode": 33,
+  "notification_time": 1641562294,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "target_userid": 146533879,
+  "trace_context": {
+    "app_type": 1,
+    "ctime": 1641562294527,
+    "parent_span_id": 1027,
+    "span_id": 1004,
+    "trace_id": "c7c41dng69js74d78hkg"
+  },
+  "userid": 145327675,
+  "whatsapp_placeholders": []
+}
+2022-01-07_20-29-47.882 FriendNotifyManager receive react notify: notifyDidUpdateFriendStatus  and paras:{"notifyType":"notifyDidUpdateFriendStatus","newTimestamp":1641562187}
+2022-01-07_20-29-47.884 FriendNotifyManager ReactChatStatusTabUpdateProcessor process
+2022-01-07_20-29-47.886 FriendNotifyManager lastUpdateTime:1640678961
+2022-01-07_20-29-47.890 FriendNotifyManager setUnreadStatusCountPref 0, set lastUpdateTime:1641562187
+2022-01-07_20-29-47.891 FriendNotifyManager refreshChatCount
+2022-01-07_20-29-47.893 FriendNotifyManager getStatusChatTabSeenPref:true
+2022-01-07_20-29-52.778 RedDotHandler get push and raw data is:{
+  "action_cate": 4,
+  "app_type": [
+    1
+  ],
+  "ctime": 1641562303,
+  "id": 0,
+  "msgid": 2112473928369045886,
+  "noti_bi_data": [],
+  "noticode": 33,
+  "notification_time": 1641562303,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "target_userid": 146533879,
+  "trace_context": {
+    "app_type": 1,
+    "ctime": 1641562303191,
+    "parent_span_id": 1027,
+    "span_id": 1004,
+    "trace_id": "c7c41fvh71cs74f4v63g"
+  },
+  "userid": 417081945,
+  "whatsapp_placeholders": []
+}
+2022-01-07_20-30-01.375 RedDotHandler get push and raw data is:{
+  "action_cate": 4,
+  "app_type": [
+    1
+  ],
+  "ctime": 1641562311,
+  "id": 0,
+  "msgid": 2112473928369045886,
+  "noti_bi_data": [],
+  "noticode": 33,
+  "notification_time": 1641562311,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "target_userid": 146533879,
+  "trace_context": {
+    "app_type": 1,
+    "ctime": 1641562311784,
+    "parent_span_id": 1027,
+    "span_id": 1004,
+    "trace_id": "c7c41htmqh3c74005p10"
+  },
+  "userid": 417081945,
+  "whatsapp_placeholders": []
+}
+2022-01-07_20-30-03.817 RedDotHandler get push and raw data is:{
+  "action_cate": 4,
+  "app_type": [
+    1
+  ],
+  "ctime": 1641562314,
+  "id": 0,
+  "msgid": 2112488990064410993,
+  "noti_bi_data": [],
+  "noticode": 33,
+  "notification_time": 1641562314,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "target_userid": 146533879,
+  "trace_context": {
+    "app_type": 1,
+    "ctime": 1641562314222,
+    "parent_span_id": 1027,
+    "span_id": 1004,
+    "trace_id": "c7c41infqc0s745mq8ig"
+  },
+  "userid": 23841092,
+  "whatsapp_placeholders": []
+}
+2022-01-07_20-30-09.444 RedDotHandler get push and raw data is:{
+  "action_cate": 4,
+  "app_type": [
+    1
+  ],
+  "ctime": 1641562319,
+  "id": 0,
+  "msgid": 2112488990064410993,
+  "noti_bi_data": [],
+  "noticode": 33,
+  "notification_time": 1641562319,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "target_userid": 146533879,
+  "trace_context": {
+    "app_type": 1,
+    "ctime": 1641562319857,
+    "parent_span_id": 1027,
+    "span_id": 1004,
+    "trace_id": "c7c41jvvnq9c7408no00"
+  },
+  "userid": 23841092,
+  "whatsapp_placeholders": []
+}
+2022-01-07_20-31-39.488 RedDotHandler get push and raw data is:{
+  "action_cate": 5,
+  "app_type": [
+    1
+  ],
+  "ctime": 1641562409,
+  "id": 0,
+  "itemid": 5338103229,
+  "noti_bi_data": [
+    {
+      "key": "chat_entrypoint",
+      "value": "4"
+    }
+  ],
+  "noticode": 8,
+  "notification_time": 1641562409,
+  "offence_type": [],
+  "orderid": 0,
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "shopid": 16185542,
+  "target_userid": 146533879,
+  "trace_context": {
+    "app_type": 1,
+    "ctime": 1641562409770,
+    "parent_span_id": 1027,
+    "span_id": 1004,
+    "trace_id": "c7c42aa9avgc74akm3h0"
+  },
+  "txt_msg": "[maulana.am87]: Cakop besi kak ☺",
+  "userid": 16186878,
+  "whatsapp_placeholders": []
+}
+2022-01-07_20-35-04.092 RedDotHandler check contact permission
+2022-01-07_20-35-04.094 RedDotHandler has no contact permission
+2022-01-07_20-35-04.095 RedDotHandler switch to off
+2022-01-07_20-35-04.095 RedDotHandler Preference SET VALUE, key:kotlin.reflect.jvm.internal.KProperty1Impl$a@aa48d3c
+2022-01-07_20-35-04.097 NotifyUtil didReceiveAppEvent eventType:didReceiveFriendStatusUpdate and eventData:null
+2022-01-07_20-35-04.098 RedDotHandler notify rn didReceiveFriendStatusUpdate and notify native
+2022-01-07_20-35-09.148 RedDotHandler Preference GET VALUE,  key:kotlin.reflect.jvm.internal.KProperty1Impl$a@aa48d3c, value:false
+2022-01-07_20-35-16.160 RedDotHandler get push and raw data is:{
+  "action_cate": 4,
+  "app_type": [
+    1
+  ],
+  "ctime": 1641562626,
+  "id": 0,
+  "msgid": 2125576698506592627,
+  "noti_bi_data": [],
+  "noticode": 33,
+  "notification_time": 1641562626,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "target_userid": 146533879,
+  "trace_context": {
+    "app_type": 1,
+    "ctime": 1641562626555,
+    "parent_span_id": 1027,
+    "span_id": 1004,
+    "trace_id": "c7c440icn9cc74426pe0"
+  },
+  "userid": 16186878,
+  "whatsapp_placeholders": []
+}
+2022-01-07_20-35-23.988 RedDotHandler get push and raw data is:{
+  "action_cate": 4,
+  "app_type": [
+    1
+  ],
+  "ctime": 1641562634,
+  "id": 0,
+  "msgid": 2125576698506592627,
+  "noti_bi_data": [],
+  "noticode": 33,
+  "notification_time": 1641562634,
+  "offence_type": [],
+  "place_holders": [],
+  "platform_type": [],
+  "priority_action_cate": [],
+  "reasons": [],
+  "target_userid": 146533879,
+  "trace_context": {
+    "app_type": 1,
+    "ctime": 1641562634387,
+    "parent_span_id": 1027,
+    "span_id": 1004,
+    "trace_id": "c7c442ig06ss746npeq0"
+  },
+  "userid": 16186878,
+  "whatsapp_placeholders": []
+}
